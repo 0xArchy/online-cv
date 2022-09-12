@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -51,11 +51,11 @@ career-profile:
     summary: |
       Computer Engineer by University Of Castilla-La Mancha (UCLM).
       I have developed cybersecurity projects such as Hack&Win at the UCLM
-      and currently developing challenges and machines for the community.
-      I develop content of Twitch, related to cybersecurity. I am also starting 
-      to collaborate in different private programs in HackerOne to contribute with
+      and currently developing cybersecurity challenges and machines to practice auditing in real environments
+      for the community and in University subjects. I develop content of Twitch, related to cybersecurity.
+      I am also starting to collaborate in different private programs in HackerOne to contribute with
       companies increasing their security by reporting bugs.
-      Second paragraph if required.
+     
 education:
     title: Education
     info:
@@ -93,16 +93,17 @@ projects:
         tagline: "Event with platform dedicated to training and solving cybersecurity challenges"
 
       - title: UCLM Data Processing Center Technical Report
-        tagline: "Multiple Vulnerabilities in CPD of UCLM"
+        link: "https://github.com/0xArchy/CPD_HPCx_Report/blob/main/Report_CPD_hpcs_ssc.pdf"
+        tagline: "Multiple Vulnerabilities in Data Processing Center hosts of UCLM"
 
 publications:
     title: Publications
     intro: |
       The following publications are public, but I have participated 
-      in different audits and private projects where I cannot publish the documentation. 
+      in different audits and private projects where I can not publish the documentation. 
     papers:
       - title: Design, management and deployment of a platform dedicated to training and solving cybersecurity challenges.
-        link: "#"
+        link: "https://github.com/0xArchy/TFG_Tom-sJes-s/blob/main/TFG%20Tom%C3%A1s%20Jes%C3%BAs.pdf"
         authors: Tomás Jesús García López (0xArchy)
 
       - title: Basic Exploit with Digispark
@@ -115,6 +116,15 @@ skills:
     toolset:
       - name: Python & Java
         level: 98%
+        
+      - name: REST Services
+        level: 90%
+        
+      - name: Git
+        level: 98%
+        
+      - name: Flask
+        level: 95%
 
       - name: C & C++
         level: 98%
@@ -130,3 +140,6 @@ skills:
         
       - name: OWASP Methodology
         level: 90%
+        
+      - name: Auditing Methodology
+        level: 98%
