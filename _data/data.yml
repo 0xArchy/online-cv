@@ -17,7 +17,7 @@ sidebar:
     timezone: Spain/Madrid
     citizenship:
     website: 0xarchy.github.io #do not add http://
-    linkedin: Tomás Jesús García López
+    linkedin: 0xarchy
     github: 0xArchy
     telegram: Archyx0 # add your nickname without '@' sign
     gitlab:
@@ -49,26 +49,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Computer Engineer by University Of Castilla-La Mancha (UCLM).
+      I have developed cybersecurity projects such as Hack&Win at the UCLM
+      and currently developing challenges and machines for the community.
+      I develop content of Twitch, related to cybersecurity. I am also starting 
+      to collaborate in different private programs in HackerOne to contribute with
+      companies increasing their security by reporting bugs.
       Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: Computer Engineer
         university: University of Castilla-La Mancha
         time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Computer Engineering Specialty
 
 experiences:
     title: Experiences
@@ -77,57 +72,34 @@ experiences:
         time: 2020 - 2021
         company: CT VeganBrand, Madrid
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          CEO of an e-commerce company dedicated to the sale of vegan products.
       - role: Research Support Staff
         time: 2020 - 2022
         company: University of Castilla-La Mancha, Ciudad Real
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Collaborator of the GSyA research group, where he performed security audits and developed projects related to computer security.
       - role: Hacker
         time: 2022 - Present
         company: HackerOne, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Participating in active public and private programs seeking failures to contribute to companies.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      During my working and student life I have developed the following projects
     assignments:
       - title: Hack&Win
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://gsya.esi.uclm.es/N.php?id=1519"
+        tagline: "Event with platform dedicated to training and solving cybersecurity challenges"
 
+      - title: UCLM Data Processing Center Technical Report
+        tagline: "Multiple Vulnerabilities in CPD of UCLM"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The following publications are public, but I have participated 
+      in different audits and private projects where I cannot publish the documentation. 
     papers:
       - title: Design, management and deployment of a platform dedicated to training and solving cybersecurity challenges.
         link: "#"
