@@ -83,8 +83,7 @@ experiences:
         time: 2020 - 2022
         company: University of Castilla-La Mancha, Ciudad Real
         details: |
-          Collaborator of the GSyA research group, where he performed security audits and developed projects related to computer security. Conducting audits and penetration tests using the OWASP methodology. During this employment I developed numerous reports of vulnerabilities found critical as Information Disclosure that affected the visibility of accounts of the University of Castilla La Mancha. 
-         I also developed a Capture The Flag platform with its own challenges where users could compete and vulnerable virtual machines for students to learn pentesting.
+          Collaborator of the GSyA research group, where he performed security audits and developed projects related to computer security. Conducting audits and penetration tests using the OWASP methodology. During this employment I developed numerous reports of vulnerabilities found critical as Information Disclosure that affected the visibility of accounts of the University of Castilla La Mancha. I also developed a Capture The Flag platform with its own challenges where users could compete and vulnerable virtual machines for students to learn pentesting.
       - role: Hacker
         time: 2022 - Present
         company: HackerOne, London
