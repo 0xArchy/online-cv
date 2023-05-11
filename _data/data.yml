@@ -42,8 +42,6 @@ sidebar:
         - item: Futbol
           link:
 
-        - item: Cooking
-          link:
         - item: Hacking
           link:
           
@@ -55,7 +53,8 @@ career-profile:
       and currently developing cybersecurity challenges and machines to practice auditing in real environments
       for the community and in University subjects. I develop content of Twitch, related to cybersecurity.
       I am also starting to collaborate in different private programs in HackerOne to contribute with
-      companies increasing their security by reporting bugs.
+      companies increasing their security by reporting bugs. 
+      Since I was a little boy I have been passionate about cybersecurity and I have always tried to copy the experts I saw and copied numerous attacks until I started my degree in computer engineering and I began to understand the purpose of the attacks. I have done security audits, both web and internal where I have acquired a lot of knowledge of intrusion and reporting to apply to my day to day.
      
 education:
     title: Education
@@ -83,12 +82,12 @@ experiences:
         time: 2020 - 2022
         company: University of Castilla-La Mancha, Ciudad Real
         details: |
-          Collaborator of the GSyA research group, where he performed security audits and developed projects related to computer security. Conducting audits and penetration tests using the OWASP methodology. During this employment I developed numerous reports of vulnerabilities found critical as Information Disclosure that affected the visibility of accounts of the University of Castilla La Mancha. I also developed a Capture The Flag platform with its own challenges where users could compete and vulnerable virtual machines for students to learn pentesting.
+          Collaborator of the GSyA research group, where he performed security audits and developed projects related to computer security. Conducting audits and penetration tests using the OWASP methodology. During this employment I developed numerous reports of vulnerabilities found critical as Information Disclosure that affected the visibility of accounts of the University of Castilla La Mancha. I also developed a Capture The Flag platform with its own challenges where users could compete and vulnerable virtual machines for students to learn pentesting. I would like to highlight the performance of internal audits at the University of Castilla La Mancha where, thanks to a Misconfiguration, I managed to obtain credentials at administrator level in the Supercomputing Service databases and to visualize the information of the professors.
       - role: Hacker
         time: 2022 - Present
         company: HackerOne, London
         details: |
-          Participating in active public and private programs seeking failures to contribute to companies.
+          Participating in active public and private programs seeking failures to contribute to companies conducting intrusion web audits. Performed attacks of all types such as SQLI, CSRF, SSRF, IDOR ... where tools like Burpsuite, metasploit, sqlmap and helping me with the Linux OS I have achieved several reports. I also found bugs like Information Disclosure or Information Leake where system versioning information applicable to a known CVE is disclosed.
 projects:
     title: Projects
     intro: >
