@@ -100,6 +100,7 @@ certifications:
           credentialurl: https://my.ine.com/certificate/07ae6490-6d82-4338-880d-9150ee84da8f
           credentialname: eJPTv2
           details: |
+            Penetration Tester
 
         - name: Qualys Vulnerability Management Expert
           start: 2022
@@ -109,6 +110,7 @@ certifications:
           credentialurl: 
           credentialname: Qualys Vulnerability Management Expert
           details: |
+            Qualys VM expert
 
 projects:
     title: Projects
