@@ -54,8 +54,7 @@ career-profile:
       for the community and in University subjects. I develop content of Twitch, related to cybersecurity.
       I am also starting to collaborate in different private programs in HackerOne to contribute with
       companies increasing their security by reporting bugs. 
-      Since I was a little boy I have been passionate about cybersecurity and I have always tried to copy the experts I saw and copied numerous attacks until I started my degree in computer engineering and I began to understand the purpose of the attacks. I have done security audits, both web and internal where I have acquired a lot of knowledge of intrusion and reporting to apply to my day to day.
-      I now work as a cloud security engineer managing the vulnerabilities of different entities globally through platforms such as Qualys. My goal and my passion has always been pentesting, is what I spend most of my free hours and I am professionally trained in it, having studied at the university the related specialty and with certifications that prove it.
+      Since I was a little boy I have been passionate about cybersecurity and I have always tried to copy the experts I saw and copied numerous attacks until I started my degree in computer engineering and I began to understand the purpose of the attacks. I have done security audits, both web and internal where I have acquired a lot of knowledge of intrusion and reporting to apply to my day to day. I now work as a cloud security engineer managing the vulnerabilities of different entities globally through platforms such as Qualys. My goal and my passion has always been pentesting, is what I spend most of my free hours and I am professionally trained in it, having studied at the university the related specialty and with certifications that prove it.
      
 education:
     title: Education and Certifications
@@ -64,12 +63,7 @@ education:
         university: University of Castilla-La Mancha
         time: 2018 - 2022
         details: |
-          Computer Engineering Specialty
-     - degree: eJPTv2
-         university: eLearning Security
-         time: 2023
-         link: https://my.ine.com/certificate/07ae6490-6d82-4338-880d-9150ee84da8f
-         
+          Computer Engineering Specialty         
 
 experiences:
     title: Experiences
@@ -94,6 +88,28 @@ experiences:
         company: HackerOne, London
         details: |
           Participating in active public and private programs seeking failures to contribute to companies conducting intrusion web audits. Performed attacks of all types such as SQLI, CSRF, SSRF, IDOR ... where tools like Burpsuite, metasploit, sqlmap and helping me with the Linux OS I have achieved several reports. I also found bugs like Information Disclosure or Information Leake where system versioning information applicable to a known CVE is disclosed.
+
+certifications:
+      title: Certifications
+      list:
+        - name: eJPTv2
+          start: 2023
+          end: 2023
+          organization: eLearnSecurity
+          credentialid: 07ae6490
+          credentialurl: https://my.ine.com/certificate/07ae6490-6d82-4338-880d-9150ee84da8f
+          credentialname: eJPTv2
+          details: |
+
+        - name: Qualys Vulnerability Management Expert
+          start: 2022
+          end: 2022
+          organization: Qualys
+          credentialid: 
+          credentialurl: 
+          credentialname: Qualys Vulnerability Management Expert
+          details: |
+
 projects:
     title: Projects
     intro: >
