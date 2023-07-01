@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tomás Jesús García López
-    tagline: Security Engineer | Hacker | Red Team | Bug Bounty | Qualys
+    tagline: Security Engineer | Hacker/Pentester| Red Team | Bug Bounty | Qualys | eJPTv2
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,10 +39,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Futbol
+        - item: Hacking
           link:
 
-        - item: Hacking
+        - item: Pentesting
           link:
           
 career-profile:
@@ -55,15 +55,21 @@ career-profile:
       I am also starting to collaborate in different private programs in HackerOne to contribute with
       companies increasing their security by reporting bugs. 
       Since I was a little boy I have been passionate about cybersecurity and I have always tried to copy the experts I saw and copied numerous attacks until I started my degree in computer engineering and I began to understand the purpose of the attacks. I have done security audits, both web and internal where I have acquired a lot of knowledge of intrusion and reporting to apply to my day to day.
+      I now work as a cloud security engineer managing the vulnerabilities of different entities globally through platforms such as Qualys. My goal and my passion has always been pentesting, is what I spend most of my free hours and I am professionally trained in it, having studied at the university the related specialty and with certifications that prove it.
      
 education:
-    title: Education
+    title: Education and Certifications
     info:
       - degree: Computer Engineer
         university: University of Castilla-La Mancha
         time: 2018 - 2022
         details: |
           Computer Engineering Specialty
+     - degree: eJPTv2
+         university: eLearning Security
+         time: 2023
+         link: https://my.ine.com/certificate/07ae6490-6d82-4338-880d-9150ee84da8f
+         
 
 experiences:
     title: Experiences
